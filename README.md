@@ -1,4 +1,4 @@
-# OOP Prject for TDT4100 at NTNU
+# OOP Project for TDT4100 at NTNU
 
 The goal of this project was to get familier with object oriented programming using Java. We worked in pairs of two and we were free to choose whater project we wanted. My teammate and I landed on making a Hotel Booking App. This project was my first team coding project, and gave me the opportunity to learn pair programming and gain experience with using Git.
 
